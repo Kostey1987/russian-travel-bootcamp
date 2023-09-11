@@ -1,0 +1,19 @@
+.header__link {
+  color: #FFF;
+  text-decoration: none;
+  margin: 0 18px 0 0;
+}
+
+.header__link:last-of-type {
+  margin: 0;
+}
+
+.header__link:hover {
+  filter:opacity(50%);
+  transition: 0.5s; 
+}
+
+
+
+
+

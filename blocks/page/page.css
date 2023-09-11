@@ -1,0 +1,25 @@
+.page {
+  max-width: 1280px;
+  margin: 0 auto;
+  font-family: Inter, Arial, serif;
+  background: #2A2C2F;
+}
+
+/* @media screen and (max-width: 1140px) {
+  .page {
+    max-width: 1024px; 
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .page {
+    max-width: 768px; 
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .page {
+    max-width: 320px; 
+  }
+} */
+

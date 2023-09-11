@@ -1,0 +1,31 @@
+.header__links {
+color: #FFF;
+text-align: right;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+margin-top: 46px;
+margin-right: 48px;
+margin-bottom: 0;
+margin-left: 0;
+}
+
+@media screen and (max-width: 980px) {
+    .header__links {
+      margin-top: 46px;
+      margin-right: 24px;
+      margin-bottom: 0;
+      margin-left: 0;  
+    }
+  }
+  @media screen and (max-width: 767px) {
+    .header__links {
+      margin-top: 30px;
+      margin-right: 16px;
+      margin-bottom: 0;
+      margin-left: 0;
+      font-size: 18px;
+      line-height: 20px;  
+    }
+  }  
