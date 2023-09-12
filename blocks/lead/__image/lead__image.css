@@ -1,5 +1,5 @@
 .lead__image {
-  background-image: url("../../../images/lead-polka.jpg");
+  object-fit: cover;
   background-size: cover;
   width: 100%;
   max-width: 984px;

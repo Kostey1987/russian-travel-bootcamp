@@ -10,8 +10,7 @@
 }
 
 .footer__link:hover {
-  filter:opacity(50%);
-  transition: 0.5s;
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 760px) {
