@@ -15,9 +15,8 @@
 
   @media screen and (max-width: 760px) {
     .places__url {
-      width: 100%;
       margin: 0;
-      max-width: 288px;
+      width: 288px;
     }
   }
 
